@@ -1,4 +1,4 @@
-Project Title: Sentiment Analysis of Flipkart Product Reviews using Web Scraping and NLP
+🔍 Project Title: Sentiment Analysis of Flipkart Product Reviews using Web Scraping and NLP
 
 Description:
 This project focuses on analyzing customer sentiments from Flipkart product reviews using web scraping, Python, and Natural Language Processing (NLP) techniques. The workflow begins with scraping real-time product reviews from Flipkart using Python libraries such as BeautifulSoup and Requests, ensuring structured collection of review text, ratings, and metadata.
